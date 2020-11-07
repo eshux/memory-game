@@ -4,11 +4,11 @@ import 'flexboxgrid';
 
 const App = () => {
   return (
-    <div>
-      <h1> Hi </h1>
+    <div className="app">
+
+
     </div>
   );
 };
-
 
 export default App;
