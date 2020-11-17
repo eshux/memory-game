@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-app/static/css/main.379c570a.chunk.css",
+    "main.js": "/memory-app/static/js/main.9113aae7.chunk.js",
+    "main.js.map": "/memory-app/static/js/main.9113aae7.chunk.js.map",
+    "runtime-main.js": "/memory-app/static/js/runtime-main.8ff1ed38.js",
+    "runtime-main.js.map": "/memory-app/static/js/runtime-main.8ff1ed38.js.map",
+    "static/css/2.e985627f.chunk.css": "/memory-app/static/css/2.e985627f.chunk.css",
+    "static/js/2.46fc43fb.chunk.js": "/memory-app/static/js/2.46fc43fb.chunk.js",
+    "static/js/2.46fc43fb.chunk.js.map": "/memory-app/static/js/2.46fc43fb.chunk.js.map",
+    "static/js/3.6b3b9378.chunk.js": "/memory-app/static/js/3.6b3b9378.chunk.js",
+    "static/js/3.6b3b9378.chunk.js.map": "/memory-app/static/js/3.6b3b9378.chunk.js.map",
+    "index.html": "/memory-app/index.html",
+    "static/css/2.e985627f.chunk.css.map": "/memory-app/static/css/2.e985627f.chunk.css.map",
+    "static/css/main.379c570a.chunk.css.map": "/memory-app/static/css/main.379c570a.chunk.css.map",
+    "static/js/2.46fc43fb.chunk.js.LICENSE.txt": "/memory-app/static/js/2.46fc43fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ff1ed38.js",
+    "static/css/2.e985627f.chunk.css",
+    "static/js/2.46fc43fb.chunk.js",
+    "static/css/main.379c570a.chunk.css",
+    "static/js/main.9113aae7.chunk.js"
+  ]
+}
