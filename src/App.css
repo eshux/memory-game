@@ -34,4 +34,5 @@ body{
 .layout--s {
     max-width: 700px;
     width: 700px;
+    margin-top: 40px;
 }
