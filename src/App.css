@@ -16,14 +16,14 @@ body{
 }
 
 .layout {
-    margin-top: 40px;
+    margin-top: 20px;
     flex-basis: auto !important;
 }
 
 .layout--l {
     max-width: 1000px;
     width: 1000px;
-    margin-top: 20px;
+
 }
 
 .layout--m {
@@ -34,5 +34,5 @@ body{
 .layout--s {
     max-width: 700px;
     width: 700px;
-    margin-top: 40px;
+
 }
