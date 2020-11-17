@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.app {
+    margin-top: 20px;
+}
+
+.flex {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.layout {
+    margin-top: 40px;
+    flex-basis: auto !important;
+}
+
+.layout--l {
+    max-width: 1000px;
+    width: 1000px;
+    margin-top: 20px;
+}
+
+.layout--m {
+    max-width: 800px;
+    width: 800px;
+}
+
+.layout--s {
+    max-width: 700px;
+    width: 700px;
+}
