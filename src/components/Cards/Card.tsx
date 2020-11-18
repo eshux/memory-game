@@ -1,10 +1,9 @@
-import React, { FC, useEffect, useState } from 'react';
+import React, { FC } from 'react';
 import './Card.scss';
 
 type Props = {
   front: string; // img src
   back: string; // img src
-  id: number, // index of each card
   clickHandler: () => void, // onClick function
   disabled: boolean,
   showFront: boolean, 
@@ -15,7 +14,6 @@ type Props = {
 const Card: FC<Props> = ({
   front,
   back,
-  id,
   clickHandler,
   disabled,
   showFront,

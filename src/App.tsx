@@ -73,7 +73,6 @@ const MemoryGame = () => {
               return (
                 <div key={uuidv4()}>
                   <Card
-                    id={index}
                     front={`https://robohash.org/${i}`}
                     back="https://picsum.photos/id/1002/300/300"
                     clickHandler={() => clickHandler(index)}
